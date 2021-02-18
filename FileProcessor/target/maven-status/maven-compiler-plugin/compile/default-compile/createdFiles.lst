@@ -1,0 +1,7 @@
+com\nagababu\processor\impl\RemotFileProcessor.class
+com\nagababu\main\PrototypeLauncher.class
+com\nagababu\processor\impl\FormulatedScoreCounter.class
+com\nagababu\processor\LocalFileProcessor.class
+com\nagababu\processor\ScoreCounter.class
+com\nagababu\processor\impl\SimpleScoreCounter.class
+com\nagababu\processor\FileProcessor.class
